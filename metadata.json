@@ -1,0 +1,6 @@
+{
+  "name": "Florida ELA Assessment Studio",
+  "description": "An instructional studio for Florida elementary teachers and coaches to build B.E.S.T.-aligned reading passages, vocabulary guides, text complexity analyses, and FAST practice items for grades K–5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
